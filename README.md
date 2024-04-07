@@ -31,8 +31,10 @@ Before running the tests, make sure you have the following installed:
   - `bdd`: Contains the feature files written in Gherkin syntax for BDD.
   - `stepDefinitions`: Contains the step definition classes for Cucumber.
   - `data`: Contains data providers for TestNG data-driven testing.
-  - `pages`: Contains Page Object classes for different pages of the website.
-  - `utils`: Contains utility classes for common functions and helpers.
+  - `pageObject`: Contains Page Object classes for different pages of the website.
+  - `utilities`: Contains utility classes for common functions and helpers.
+  - 'runner': contains the code to run the program
+  - 'reusableComponents': contains code to load the webdriver 
 - `src/test/resources`: Contains configuration files and test data.
   - `config.properties`: Configuration file for test environment settings.
   - `testData.xlsx`: Test data in Excel format for data-driven testing.
