@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="f2b20d38-1064-48ff-8fd3-7c9a28850984" activeEnvironment="Default" name="REST Project 2" soapui-version="5.6.0" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:RestService" id="f0b56a17-6d3f-477e-9720-7bd872dc5ad3" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://petstore.swagger.io" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>https://petstore.swagger.io</con:endpoint></con:endpoints><con:resource name="" path="/" id="70773b20-c355-467d-9f23-1a6d57894d90"><con:settings/><con:parameters/><con:method name="1" id="f7f25d4d-8a8a-42db-816e-91cf2f3b15cd" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>text/html</con:mediaType><con:status>200</con:status><con:params/><con:element>html</con:element></con:representation><con:request name="Request 1" id="f8e861db-6132-45ef-8988-bd61b795b2cc" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://petstore.swagger.io</con:endpoint><con:request/><con:originalUri>https://petstore.swagger.io/</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:testSuite id="f2dc3684-ab25-4118-9a3e-e9e8cffb7704" name="Test Suite"><con:description>TestSuite generated for REST Service [https://petstore.swagger.io]</con:description><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="e4bbe83b-dd36-4fc9-b66a-52eb6bc8048f" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="TestCase" searchProperties="true"><con:description>TestCase generated for REST Resource [] located at [/]</con:description><con:settings/><con:testStep type="restrequest" name="Request 1" id="a7308852-425b-46b9-aa67-852197b4ea44"><con:settings/><con:config service="https://petstore.swagger.io" resourcePath="/" methodName="1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="Request 1" id="f8e861db-6132-45ef-8988-bd61b795b2cc" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://petstore.swagger.io</con:endpoint><con:request/><con:originalUri>https://petstore.swagger.io/</con:originalUri><con:assertion type="Simple Contains" id="8320367e-4b3a-4d6e-b2e6-727f92590cd4" name="Contains"><con:configuration><token>Colombia</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="Groovy Script" id="0165a270-0dcc-4428-b943-aec2087b429e"><con:settings/><con:config><script>import jxl*
+import jxl.write*
+Workbook=Workbook.getWorkbook(new File("E:\\Book2.xls"));
+Sheet sh=work.getSheet(0);
+rc=sh.getRows();
+cc.sh.getColumns();
+log.info"rowscount="+rc
+log.info"columnscount="+cc
+for(int i=0;i&lt;rc;i++)
+{//log.info"i="+i
+	for(j=0;j&lt;cc;j++)
+	{
+		Cell var=sh.getCell(j,i);
+		log.info var.getContents()
+	}
+}
+work.close();
+	}
+}
+</script></con:config></con:testStep><con:testStep type="groovy" name="Groovy Script1" id="6e026b55-acfa-4832-922b-cafcb281ef9f"><con:settings/><con:config><script>import jxl*
+import jxl.write*
+WritableWorkbook workbook=Workbook.createWorkbook(new File("E:\\Book3.xls"))
+WritableSheet sheet1=workbook.createSheet("Worksheet2",1)
+int r=4
+int c=2
+for(i=0;i&lt;r;i++)
+{
+	for(j=0;j&lt;c;j++)
+	{
+		Label label=new Label(j,i,"this is cell"+j+""+i+"");
+		sheet1.addCell(label);
+	}
+}
+workbook.write()
+workbook.close()
+
+</script></con:config></con:testStep><con:properties/></con:testCase><con:properties/></con:testSuite><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/></con:soapui-project>

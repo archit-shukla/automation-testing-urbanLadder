@@ -1,0 +1,81 @@
+2021-09-26 23:24:34 INFO  urbanLadder:38 - URL is opened
+  2021-09-26 23:24:45 INFO  urbanLadder:41 - Entered Username
+  2021-09-26 23:24:45 INFO  urbanLadder:43 - Entered Password
+  2021-09-26 23:24:47 INFO  urbanLadder:48 - Logged in
+  2021-09-26 23:24:47 INFO  urbanLadder:55 - Logged Out
+  2021-09-27 19:50:49 INFO  urbanLadder:37 - URL is opened
+  2021-09-27 19:50:59 INFO  urbanLadder:40 - Entered Username
+  2021-09-27 19:51:00 INFO  urbanLadder:42 - Entered Password
+  2021-09-27 19:51:03 INFO  urbanLadder:46 - Logged in
+  2021-09-27 19:51:03 INFO  urbanLadder:53 - Logged Out
+  2021-09-27 19:51:17 INFO  urbanLadder:62 - URL is opened
+  2021-09-27 19:51:31 INFO  urbanLadder:62 - URL is opened
+  2021-09-27 19:51:44 INFO  urbanLadder:64 - Entered Username
+  2021-09-27 19:51:45 INFO  urbanLadder:66 - Entered Password
+  2021-09-27 19:51:47 INFO  urbanLadder:69 - Login Button pressed
+  2021-09-27 19:51:49 INFO  urbanLadder:62 - URL is opened
+  2021-09-27 19:52:01 INFO  urbanLadder:64 - Entered Username
+  2021-09-27 19:52:03 INFO  urbanLadder:97 - URL is opened
+  2021-09-27 19:52:16 INFO  urbanLadder:97 - URL is opened
+  2021-09-27 19:52:28 INFO  urbanLadder:102 - Username entered
+  2021-09-27 19:52:28 INFO  urbanLadder:104 - Entered Password
+  2021-09-27 19:52:30 INFO  urbanLadder:106 - signup bUtton pressed
+  2021-09-27 19:52:32 INFO  urbanLadder:97 - URL is opened
+  2021-09-27 19:52:45 INFO  urbanLadder:102 - Username entered
+  2021-09-27 19:52:47 INFO  urbanLadder:121 - URL opened
+  2021-09-27 19:52:52 INFO  urbanLadder:125 - search done
+  2021-09-27 19:52:52 INFO  urbanLadder:129 - Test case passed
+  2021-09-27 19:52:54 INFO  urbanLadder:141 - URL opened
+  2021-09-27 19:52:57 INFO  urbanLadder:144 - Seacrh done
+  2021-09-27 19:53:07 WARN  urbanLadder:152 - Test case failed
+  2021-09-27 19:53:10 INFO  urbanLadder:159 - URL opened
+  2021-09-27 19:53:13 INFO  urbanLadder:163 - search done
+  2021-09-27 19:53:32 INFO  urbanLadder:167 - Added to cart
+  2021-09-27 19:53:32 INFO  urbanLadder:171 - Test Case Passed
+  2021-09-27 19:53:34 INFO  urbanLadder:183 - URL opened
+  2021-09-27 19:53:39 INFO  urbanLadder:186 - track order opened
+  2021-09-27 19:53:41 INFO  urbanLadder:188 - Order number Entered
+  2021-09-27 19:53:42 INFO  urbanLadder:190 - Phone Number Entered
+  2021-09-27 19:53:43 INFO  urbanLadder:192 - Submitted
+  2021-09-27 19:53:43 WARN  urbanLadder:195 - Test case Failed
+  2021-09-27 19:53:45 INFO  urbanLadder:206 - URL opened
+  2021-09-27 19:53:53 INFO  urbanLadder:209 - Stores Location 
+  2021-09-27 19:53:56 INFO  urbanLadder:211 - Details of the store
+  2021-09-27 19:53:59 INFO  urbanLadder:214 - Test Case Passed
+  2021-09-27 19:54:01 INFO  urbanLadder:224 - URL opened
+  2021-09-27 19:54:05 INFO  urbanLadder:227 - Help Page is Opened
+  2021-09-27 19:54:08 INFO  urbanLadder:229 - Contact Us page is opened
+  2021-09-27 19:54:09 INFO  urbanLadder:232 - Test Case Passed
+  2021-09-27 19:54:11 INFO  urbanLadder:244 - URL opened
+  2021-09-27 19:54:14 INFO  urbanLadder:247 - Help Page is Opened
+  2021-09-27 19:54:16 INFO  urbanLadder:249 - Keyword Entered
+  2021-09-27 19:54:19 INFO  urbanLadder:251 - Keyword searched
+  2021-09-27 19:54:20 INFO  urbanLadder:254 - Test Case Passed
+  2021-09-27 20:03:37 INFO  urbanLadder:36 - *************TEST CASE 1***********
+  2021-09-27 20:03:40 INFO  urbanLadder:38 - URL is opened
+  2021-09-27 20:03:51 INFO  urbanLadder:41 - Entered Username
+  2021-09-27 20:03:51 INFO  urbanLadder:43 - Entered Password
+  2021-09-27 20:03:56 INFO  urbanLadder:47 - Logged in
+  2021-09-27 20:03:58 INFO  urbanLadder:54 - Logged Out
+  2021-09-27 20:04:08 INFO  urbanLadder:62 - *************TEST CASE 2***********
+  2021-09-27 20:04:10 INFO  urbanLadder:64 - URL is opened
+  2021-09-27 20:04:21 INFO  urbanLadder:62 - *************TEST CASE 2***********
+  2021-09-27 20:04:23 INFO  urbanLadder:64 - URL is opened
+  2021-09-27 20:04:36 INFO  urbanLadder:66 - Entered Username
+  2021-09-27 20:04:37 INFO  urbanLadder:68 - Entered Password
+  2021-09-27 20:04:38 INFO  urbanLadder:71 - Login Button pressed
+  2021-09-27 20:04:39 INFO  urbanLadder:62 - *************TEST CASE 2***********
+  2021-09-27 20:04:41 INFO  urbanLadder:64 - URL is opened
+  2021-09-27 20:04:53 INFO  urbanLadder:66 - Entered Username
+  2021-09-27 20:05:00 WARN  HashedWheelTimer:672 - An exception was thrown by TimerTask.
+  java.lang.IllegalStateException: cannot be started once stopped
+	at io.netty.util.HashedWheelTimer.start(HashedWheelTimer.java:338)
+	at io.netty.util.HashedWheelTimer.newTimeout(HashedWheelTimer.java:413)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.scheduleNewIdleChannelDetector(DefaultChannelPool.java:95)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.access$900(DefaultChannelPool.java:43)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool$IdleChannelDetector.run(DefaultChannelPool.java:378)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:669)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:744)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:469)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)

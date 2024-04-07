@@ -1,0 +1,77 @@
+2021-09-27 07:42:52 INFO  urbanLadder:38 - URL Entered
+  2021-09-27 07:43:01 INFO  urbanLadder:43 - Username Entered
+  2021-09-27 07:43:02 INFO  urbanLadder:45 - Password Entered
+  2021-09-27 07:43:03 INFO  urbanLadder:51 - Logged in
+  2021-09-27 07:43:03 INFO  urbanLadder:58 - Test Case Passed
+  2021-09-27 07:43:05 INFO  urbanLadder:71 - Logged Out
+  2021-09-27 07:43:10 INFO  urbanLadder:38 - URL Entered
+  2021-09-27 07:43:19 INFO  urbanLadder:43 - Username Entered
+  2021-09-27 07:43:20 INFO  urbanLadder:45 - Password Entered
+  2021-09-27 07:43:21 INFO  urbanLadder:51 - Logged in
+  2021-09-27 07:43:21 INFO  urbanLadder:58 - Test Case Passed
+  2021-09-27 07:43:25 INFO  urbanLadder:38 - URL Entered
+  2021-09-27 07:43:35 INFO  urbanLadder:43 - Username Entered
+  2021-09-27 07:43:35 INFO  urbanLadder:45 - Password Entered
+  2021-09-27 07:43:36 INFO  urbanLadder:51 - Logged in
+  2021-09-27 07:43:36 INFO  urbanLadder:62 - Test Case Failed
+  2021-09-27 07:43:43 INFO  urbanLadder:38 - URL Entered
+  2021-09-27 07:43:53 INFO  urbanLadder:43 - Username Entered
+  2021-09-27 07:43:53 INFO  urbanLadder:45 - Password Entered
+  2021-09-27 07:43:55 INFO  urbanLadder:51 - Logged in
+  2021-09-27 07:43:55 INFO  urbanLadder:62 - Test Case Failed
+  2021-09-27 07:44:02 INFO  urbanLadder:38 - URL Entered
+  2021-09-27 07:44:12 INFO  urbanLadder:103 - Signup Successful
+  2021-09-27 07:44:19 INFO  urbanLadder:38 - URL Entered
+  2021-09-27 07:44:30 INFO  urbanLadder:103 - Signup Successful
+  2021-09-27 07:44:37 INFO  urbanLadder:38 - URL Entered
+  2021-09-27 07:44:48 INFO  urbanLadder:103 - Signup Successful
+  2021-09-27 08:22:18 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:23:24 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:23:24 INFO  urbanLadder:119 - Search data Entered
+  2021-09-27 08:23:26 INFO  urbanLadder:121 - Search Done
+  2021-09-27 08:23:26 INFO  urbanLadder:128 - Test case passed
+  2021-09-27 08:33:38 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:33:38 INFO  urbanLadder:119 - Search data Entered
+  2021-09-27 08:33:40 INFO  urbanLadder:121 - Search Done
+  2021-09-27 08:33:40 INFO  urbanLadder:128 - Test case passed
+  2021-09-27 08:33:54 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:33:56 INFO  urbanLadder:140 - Seacrh done
+  2021-09-27 08:33:58 INFO  urbanLadder:142 - View details of product
+  2021-09-27 08:33:58 WARN  urbanLadder:151 - Test case failed
+  2021-09-27 08:47:40 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:47:40 INFO  urbanLadder:119 - Search data Entered
+  2021-09-27 08:47:43 INFO  urbanLadder:121 - Search Done
+  2021-09-27 08:48:02 INFO  urbanLadder:163 - Added to cart
+  2021-09-27 08:48:02 INFO  urbanLadder:170 - Test Case Passed
+  2021-09-27 08:54:35 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:54:35 INFO  urbanLadder:119 - Search data Entered
+  2021-09-27 08:54:37 INFO  urbanLadder:121 - Search Done
+  2021-09-27 08:54:50 INFO  urbanLadder:163 - Added to cart
+  2021-09-27 08:54:50 INFO  urbanLadder:170 - Test Case Passed
+  2021-09-27 08:54:54 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:58:39 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:58:39 INFO  urbanLadder:119 - Search data Entered
+  2021-09-27 08:58:42 INFO  urbanLadder:121 - Search Done
+  2021-09-27 08:58:51 INFO  urbanLadder:163 - Added to cart
+  2021-09-27 08:58:51 INFO  urbanLadder:170 - Test Case Passed
+  2021-09-27 08:58:55 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 08:58:59 INFO  urbanLadder:180 - track order opened
+  2021-09-27 08:59:00 INFO  urbanLadder:185 - Order number Entered
+  2021-09-27 08:59:00 INFO  urbanLadder:187 - Phone Number Entered
+  2021-09-27 08:59:00 INFO  urbanLadder:189 - Submitted
+  2021-09-27 08:59:00 WARN  urbanLadder:195 - Test case Failed
+  2021-09-27 09:58:36 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 10:00:30 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 10:00:32 INFO  urbanLadder:205 - Help Page is Opened
+  2021-09-27 10:00:33 INFO  urbanLadder:210 - Contact Us page is opened
+  2021-09-27 10:00:33 INFO  urbanLadder:216 - Test Case Passed
+  2021-09-27 10:15:44 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 10:15:47 INFO  urbanLadder:244 - Stores Location 
+  2021-09-27 10:15:49 INFO  urbanLadder:249 - Details of the store
+  2021-09-27 10:15:49 INFO  urbanLadder:255 - Test Case Passed
+  2021-09-27 10:16:19 INFO  urbanLadder:42 - URL Entered
+  2021-09-27 10:16:22 INFO  urbanLadder:244 - Stores Location 
+  2021-09-27 10:16:23 INFO  urbanLadder:249 - Details of the store
+  2021-09-27 10:16:24 INFO  urbanLadder:255 - Test Case Passed
+  2021-09-27 10:43:07 INFO  urbanLadder:42 - URL Entered
+  
