@@ -42,4 +42,4 @@ Before running the tests, make sure you have the following installed:
 
 ## Reporting
 
-TestNG generates HTML reports in the `target/surefire-reports` directory after test execution. You can view these reports to check the test results and status.
+TestNG generates HTML reports in the `test-output` directory after test execution. You can view these reports to check the test results and status.
